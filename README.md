@@ -1,6 +1,14 @@
 
+# Week-by-week breakdown
 
-## Running the code
+## Week 1 - Programming challenges
+Learning how to approach algorithmic problems. How to debug by generating tests against a naive algorithm.
+
+## Week 2 - Algorithmic warm-up
+Covering 2 concepts - greatest common divisor and fibonacci numbers.
+
+
+# Running the code
 
 ## C++
 Compile: 
