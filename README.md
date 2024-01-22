@@ -5,7 +5,7 @@
 Learning how to approach algorithmic problems. How to debug by generating tests against a naive algorithm.
 
 ## Week 2 - Algorithmic warm-up
-Covering 2 concepts - greatest common divisor and fibonacci numbers.
+Covering greatest common divisor and fibonacci numbers.
 
 
 # Running the code
