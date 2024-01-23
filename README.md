@@ -7,6 +7,8 @@ Learning how to approach algorithmic problems. How to debug by generating tests 
 ## Week 2 - Algorithmic warm-up
 Covering greatest common divisor and fibonacci numbers.
 
+## Week 3 - Greedy algorithms
+Make a greedy choice (e.g. max, min) to reduce the size of the problem then iterate. For a greedy choice to be safe the first choice must be optimal.
 
 # Running the code
 

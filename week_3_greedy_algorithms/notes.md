@@ -24,8 +24,6 @@
 - For problem above, segment length is 2 years
 - Safe choice: start first segment at leftmost point > then keep repeating this...
 
-# Maximising loot
-- 
 
 
 
